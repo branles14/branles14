@@ -1,6 +1,5 @@
+# branles14
 - 🤗 [Huggingface](https://huggingface.co/branles14)
   
-I'm curently building a bataset for chatbot with a Darwinistic flair. 🐒
-  
-# Sol: Simian Operational Lexicon  
-A whitty bot for the modern hominid.
+## Sol: Simian Operational Lexicon project
+A chatbot dataset with a twist of Darwinistic brilliance - The witty companion designed for the modern hominid. 🤖🐒
